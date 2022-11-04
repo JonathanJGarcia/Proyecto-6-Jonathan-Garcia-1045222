@@ -1,0 +1,5 @@
+D:\visual studi\Pokedex\x64\Debug\Pokedex.vcxproj.AssemblyReference.cache
+D:\visual studi\Pokedex\x64\Debug\Pokedex.vcxproj.SuggestedBindingRedirects.cache
+D:\visual studi\Pokedex\x64\Debug\Pokedex.MyForm.resources
+D:\visual studi\Pokedex\x64\Debug\Pokedex.vcxproj.GenerateResource.cache
+D:\visual studi\Pokedex\x64\Debug\Pokedex.exe
